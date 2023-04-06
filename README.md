@@ -1,6 +1,5 @@
-# RNN_convolucional
+#  Predicción usando redes neuronales convolucionales
 
-Tenemos un dataset con 5 inputs ( en este dataset se llaman robots) los cuales tienen asociados varias series de numeros
-caracteristicas de cada robot. El objetivo es usar las redes neuronales convolucionales para predicir cual robot dijo
-determinara serie de numeros.
-Se uso googlecolab para progrmar la red neuronal.
+Usaremos redes neuronales convolucionales para predicción la fuente, input, de donde vino una serie de números. 
+
+Tenemos un dataset con 5 inputs (los inputs se llaman robots) los cuales tienen asociados series de números característicos de cada robot. El objetivo es usar las redes neuronales convolucionales para predecir cual robot dijo determinada serie de números.
